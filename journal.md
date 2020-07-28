@@ -1,6 +1,6 @@
 #This is an example of a paper for stuff
 
-Authors
+Authors voila, c'est moi and all the others
 
 Title
 
